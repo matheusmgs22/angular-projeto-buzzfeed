@@ -21,8 +21,8 @@
 
     </div>
 
-    <div *ngIF = finished class = "quizz_results">
-        <h1>O seu resultado é: </h1>
-        <p>Resposta selecionada</p>
+    <div *ngIf=finished class="quizz_results">
+      <h1>O Seu resultado é:</h1>
+      <p>{{answerSelected}}</p>
     </div>
-</div>
+  </div>
