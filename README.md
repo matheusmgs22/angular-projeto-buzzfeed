@@ -1,4 +1,4 @@
-# 🧙‍♂️ Quiz: Qual casa de Harry Potter você pertence?
+# 🧙‍♂️ Quiz: Qual casa de Hogwarts você pertence?
 
 Este é um projeto desenvolvido em **Angular**, inspirado no estilo de quizzes do Buzzfeed. Ele permite que os usuários respondam a uma série de perguntas baseadas em suas preferências e características, determinando ao final a qual casa de **Hogwarts** eles pertencem: **Grifinória, Corvinal, Lufa-Lufa ou Sonserina**.
 
