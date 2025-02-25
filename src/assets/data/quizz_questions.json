@@ -1,55 +1,61 @@
 {
-    "title":"Você seria um heroi ou vilão ?",
-    "questions":[
-      {
-        "id":1,
-        "question": "Qual super poder você escolheria ?",
-        "options":[
-          {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-          {"id": 2, "name":"Voar", "alias":"B"},
-          {"id": 3, "name":"Explodir coisas", "alias":"A"},
-          {"id": 4, "name":"Curar feridas", "alias":"B"},
-          {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
-        ]
-      },
-      {
-        "id":2,
-        "question": "Quem você salvaria primeiro ?",
-        "options":[
-          {"id": 1, "name":"Crianças", "alias":"A"},
-          {"id": 2, "name":"Idosos", "alias":"A"},
-          {"id": 3, "name":"Não saberia escolher", "alias":"B"}
-        ]
-      },
-      {
-        "id":3,
-        "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-        "options":[
-          {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-          {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-          {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-          {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
-        ]
-      },
-      {
-        "id":4,
-        "question": "Qual o seu maior foco ?",
-        "options":[
-          {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-          {"id": 2, "name":"Salvar a cidade", "alias":"B"}
-        ]
-      },
-      {
-        "id":5,
-        "question": "Qual o seu apelido de super ser ?",
-        "options":[
-          {"id": 1, "name":"O Terrivel", "alias":"A"},
-          {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
-        ]
-      }
-    ],
-    "results":{
-      "A": "Você muito provavelmente seria um super vilão!",
-      "B": "Você muito provavelmente seria um super Herói!"
+  "title": "Qual casa de Hogwarts você pertence?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "O que você mais valoriza?",
+      "options": [
+        {"id": 1, "name": "Coragem e bravura", "alias": "G"},
+        {"id": 2, "name": "Inteligência e criatividade", "alias": "R"},
+        {"id": 3, "name": "Lealdade e honestidade", "alias": "H"},
+        {"id": 4, "name": "Ambição e determinação", "alias": "S"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual animal mágico você gostaria de ter?",
+      "options": [
+        {"id": 1, "name": "Fênix", "alias": "G"},
+        {"id": 2, "name": "Coruja", "alias": "R"},
+        {"id": 3, "name": "Texugo", "alias": "H"},
+        {"id": 4, "name": "Serpente", "alias": "S"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual feitiço você usaria primeiro?",
+      "options": [
+        {"id": 1, "name": "Expelliarmus (Desarmar o oponente)", "alias": "G"},
+        {"id": 2, "name": "Lumus (Criar luz)", "alias": "R"},
+        {"id": 3, "name": "Alohomora (Abrir portas trancadas)", "alias": "H"},
+        {"id": 4, "name": "Imperius (Controlar pessoas)", "alias": "S"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual seria sua estratégia em um duelo?",
+      "options": [
+        {"id": 1, "name": "Lutar com bravura e justiça", "alias": "G"},
+        {"id": 2, "name": "Pensar em um plano estratégico", "alias": "R"},
+        {"id": 3, "name": "Tentar evitar a luta", "alias": "H"},
+        {"id": 4, "name": "Vencer a qualquer custo", "alias": "S"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "O que você faria se encontrasse um objeto mágico desconhecido?",
+      "options": [
+        {"id": 1, "name": "Usaria sem medo para testar seus poderes", "alias": "G"},
+        {"id": 2, "name": "Estudaria para entender sua origem", "alias": "R"},
+        {"id": 3, "name": "Guardaria em segurança", "alias": "H"},
+        {"id": 4, "name": "Descobriria como usá-lo para ganhar vantagem", "alias": "S"}
+      ]
     }
+  ],
+  "results": {
+    "G": "Você pertence à Grifinória! Valente e destemido, você nunca foge de um desafio.",
+    "R": "Você pertence à Corvinal! Inteligente e perspicaz, seu conhecimento é sua maior arma.",
+    "H": "Você pertence à Lufa-Lufa! Leal e trabalhador, você valoriza amizade e justiça.",
+    "S": "Você pertence à Sonserina! Ambicioso e astuto, você sabe como alcançar seus objetivos."
   }
+}
